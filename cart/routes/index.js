@@ -11,7 +11,7 @@ router.get('/', function (req, res, next) {
 
   res.render('index', 
   { 
-    title: 'NodeJS Shopping Cart',
+    title: 'Queueless Shopping',
     products: products
   }
   );
