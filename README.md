@@ -1,17 +1,5 @@
 # Shopping
 
-1. To clone the repository
+Description:
+A NodeJS based web application for shopping using scanning of barcode available on the product. It also implements the idea of sorting the product on various parameters like price,availability etc. in the location chosen by the user .
 
-git clone https://github.com/anjali142/Shopping
-
-2. Go inside cart folder
-
-cd cart
-
-3. Install dependencies
-
-npm install
-
-4. Start Nodejs server 
-
-npm start
